@@ -17,6 +17,10 @@ Team: CMPUT404W20T07 [H03]
 * Yipu Chen    -    [yipu1](https://github.com/YipuChen)
 * Tianxin Ma      -    [tianxin3](https://github.com/tianxin3)
 
+Collaborative Team:
+==================
+
+CMPUT404W20T05 [H03] https://github.com/CMPUT404W20Project/CMPUT404-project-socialdistribution
 
 Description:
 ===================================
