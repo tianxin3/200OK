@@ -27,7 +27,7 @@ Heroku:
 
 the following links contain two connected servers, which can send remote posts, comments, and friend requests.
 
-https://safe-taiga-58655.herokuapp.com/
+https://shrouded-anchorage-92529.herokuapp.com/
 
 https://floating-chamber-80877.herokuapp.com/
 
