@@ -22,6 +22,15 @@ Collaborative Team:
 
 CMPUT404W20T05 [H03] https://github.com/CMPUT404W20Project/CMPUT404-project-socialdistribution
 
+Heroku:
+==================
+
+the following links contain two connected servers, which can send remote posts, comments, and friend requests.
+
+https://safe-taiga-58655.herokuapp.com/
+
+https://floating-chamber-80877.herokuapp.com/
+
 Description:
 ===================================
 
