@@ -107,26 +107,14 @@ Usage
     However, we did not finish all requests and response in phase 1.
     Will finish in next phase
  
-Contributors / Licensing
+Contributors / Licensing 
 ========================
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
 All text is licensed under the CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/deed.en_US
-
-Contributors:
-
-    Karim Baaba
-    Ali Sajedi
-    Kyle Richelhoff
-    Chris Pavlicek
-    Derek Dowling
-    Olexiy Berjanskii
-    Erin Torbiak
-    Abram Hindle
-    Braedy Kuzma
     
-To Do
+Contributors / To Do
 ========================
 
-Add log for login successful or not
+see https://github.com/returnturn/200OK/wiki
